@@ -1,0 +1,2 @@
+# Snowflake-sql
+Academic prurposes. 
